@@ -40,9 +40,9 @@ def Dance():
       msg += struct.pack('B',strip)
       for i in xrange(48):
         divisor=max(20-(i+offset)%20,1)
-        red=int(255/divisor)
+        red=int(150/(divisor))
         green=0
-        blue=int(255/divisor)
+        blue=int(200/(divisor))
         msg += CreatePixel(red, blue, green)
       #print(msg)
     Push(msg)
