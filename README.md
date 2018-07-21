@@ -4,6 +4,10 @@ TODO
 - [ ] [SNES controller](https://www.amazon.com/Controller-Compatible-iNNEXT-Raspberry-Multi-Colored/dp/B07DHZNW52/ref=sr_1_2?ie=UTF8&qid=1532127859&sr=8-2&keywords=snes+wireless+pi) as controller
   - [ ] switch light modes
   - [ ] adjust sensitivity
+  - [ ] test with ipod
+  - [ ] install wifi router
+  - [ ] install mic
+  - [ ] install usb hub
 
 Shopping List
 -------------
@@ -22,3 +26,10 @@ Worklist
 ### Jacob
 - [ ] Cut & soldier LED strips & plugs to 1.5m
 - [ ] Set up backup Pi(s)
+### Who?
+- [ ] cut, paint and install wood panels under seat
+- [ ] cut , paint install panel behind stearing wheel
+- [ ] cut board for speakers, installe speakers, install board
+- [ ] wire up pump for sprayers
+- [ ] run tubing and install pipes for sprayers
+
