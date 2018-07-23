@@ -1,13 +1,18 @@
 TODO
 ----
+#### Code
 - [ ] [Mic](https://tinkersphere.com/raspberry-pi-accessories/1731-usb-microphone-for-raspberry-pi.html) controller (LEDs pulse to sound)
-- [ ] [SNES controller](https://www.amazon.com/Controller-Compatible-iNNEXT-Raspberry-Multi-Colored/dp/B07DHZNW52/ref=sr_1_2?ie=UTF8&qid=1532127859&sr=8-2&keywords=snes+wireless+pi) as controller
+- [ ] [SNES controller](https://www.amazon.com/Controller-Compatible-iNNEXT-Raspberry-Multi-Colored/dp/B07DHZNW52/ref=sr_1_2?ie=UTF8&qid=1532127859&sr=8-2&keywords=snes+wireless+pi) as [mode switcher](https://github.com/zeth/inputs)
   - [ ] switch light modes
   - [ ] adjust sensitivity
-  - [ ] test with ipod
-  - [ ] install wifi router
-  - [ ] install mic
-  - [ ] install usb hub
+- [ ] Play with [iPad controller](https://itunes.apple.com/us/app/l.e.d.-lab/id832042156?mt=8)
+
+#### Hardware
+- [ ] fix broken Pushers?
+- [ ] test with ipod
+- [ ] install wifi router
+- [ ] install mic
+- [ ] install usb hub
 
 Shopping List
 -------------
