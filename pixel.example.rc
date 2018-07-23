@@ -34,7 +34,7 @@ blank_strips_on_idle=1
 # Reboot if no data for 5 mins
 data_watchdog_time=300
 # IP schema is 192.168.111.12(i - 1), where i = Pusher ID
-ether=192.168.111.122
+ether=192.168.111.128
 netmask=255.255.255.0
 gateway=192.168.111.1
 
