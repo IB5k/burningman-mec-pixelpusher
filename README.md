@@ -38,3 +38,17 @@ Worklist
 - [ ] wire up pump for sprayers
 - [ ] run tubing and install pipes for sprayers
 
+## Resources
+
+### Hardware
+
+### Software
+
+https://github.com/robot-head, especially https://github.com/robot-head/PixelPusher-processing-sketches & https://github.com/robot-head/PixelPusher-python
+
+https://github.com/jasstrong/pixelpusher-mapper or https://github.com/Instrument/pixelpusher-mapper
+
+https://github.com/jasstrong/PixelPusher-utilities
+Command line tool to telnet(?) into USB-attached Pusher. Displays very helpful log while booting.
+
+### Documentation
