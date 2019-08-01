@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(g){this.t={};this.tick=function(h,k,f){this.t[h]=[void 0!=f?f:(new Date).getTime(),k];if(void 0==f)try{window.console.timeStamp("CSI/"+h)}catch(m){}};this.tick("start",null,g)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var l=0<d?new e(d):new e;window.jstiming={Timer:e,load:l};if(a){var b=a.navigationStart;0<b&&d>=b&&(window.jstiming.srt=d-b)}if(a){var c=window.jstiming.load;0<b&&d>=b&&(c.tick("_wtsrt",void 0,b),c.tick("wtsrt_","_wtsrt",
+d),c.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),c&&0<b&&(c.tick("_tbnd",void 0,window.chrome.csi().startE),c.tick("tbnd_","_tbnd",b))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,c&&0<b&&(c.tick("_tbnd",void 0,window.external.startE),c.tick("tbnd_","_tbnd",b))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/23004a/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/a/heroicrobot.com/pixelpusher/motion-control-with-pixelpusher","deleted":false,"title":"Motion Control with PixelPusher","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/23004a/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":true,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://1145561251-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":false,"sharingPolicy":"OPENED","siteTitle":"PixelPusher","jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"oAuthForChartsApi":true,"moreMobileStyleImprovements":null,"googleChartsOverGstatic":false,"picasaAlbumInsert":false,"subscriptionDataMigrationInProgress":false,"enableJot2Atari":true,"plusBadge":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":false,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttps://sites.google.com/a/heroicrobot.com/pixelpusher/motion-control-with-pixelpusher\u0026service\u003djotspot","analyticsAccountId":"UA-37325626-1","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/23004a/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/23004a/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/23004a/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/23004a/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/23004a/system/app/css/trogedit.css","/a/heroicrobot.com/pixelpusher/_/rsrc/1563435133000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/23004a/system/app/css/codeeditor.css","/a/heroicrobot.com/pixelpusher/_/rsrc/1563435133000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"heroicrobot.com","baseUri":"/a/heroicrobot.com/pixelpusher","name":"pixelpusher","siteTemplateId":false,"siteNoticeRevision":null,"siteNoticeUrlAddress":null,"siteNoticeMessage":null,"page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en","timeZone":"America/Los_Angeles","type":"text","title":"Motion Control with PixelPusher","locale":"en","wuid":"wuid:gx:68c221e5bd063392","revision":3,"path":"/motion-control-with-pixelpusher","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"motion-control-with-pixelpusher","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/a/heroicrobot.com/pixelpusher/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<meta name="title" content="Motion Control with PixelPusher - PixelPusher" />
+<meta itemprop="name" content="Motion Control with PixelPusher - PixelPusher" />
+<meta property="og:title" content="Motion Control with PixelPusher - PixelPusher" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/23004a/system/app/themes/simple/standard-css-simple-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/a/heroicrobot.com/pixelpusher/_/rsrc/1563435133000/system/app/css/overlay.css?cb=simple150goog-ws-nosidenone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/a/heroicrobot.com/pixelpusher/_/rsrc/1563435133000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/a/heroicrobot.com/pixelpusher/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Motion Control with PixelPusher - PixelPusher</title>
+<meta itemprop="image" content="https://docs.google.com/drawings/d/sprBz01TNydkizePzzbb-rA/image?w=616&amp;h=443&amp;rev=223&amp;ac=1" />
+<meta property="og:image" content="https://docs.google.com/drawings/d/sprBz01TNydkizePzzbb-rA/image?w=616&amp;h=443&amp;rev=223&amp;ac=1" />
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner"><div class="sites-header-cell-buffer-wrapper"><h2><a href="https://sites.google.com/a/heroicrobot.com/pixelpusher/" dir="ltr" id="sites-chrome-userheader-title">PixelPusher</a></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/a/heroicrobot.com/pixelpusher/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search this site</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_2bd" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first parent " wuid="gx:70f8cb6e11440f24"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/a/heroicrobot.com/pixelpusher/home" jotId="wuid:gx:70f8cb6e11440f24" class="sites-navigation-link topLevel">PixelPusher Documentation</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/a/heroicrobot.com/pixelpusher/home/getting-started" jotId="wuid:gx:2475824f061a5f8a" class="sites-navigation-link">PixelPusher Hardware Configuration Guide</a></div></li></ul></li><li class="topLevel "><div class="current-bg" jotId="wuid:gx:68c221e5bd063392" dir="ltr" style="padding-left: 19px;">Motion Control with PixelPusher</div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/a/heroicrobot.com/pixelpusher/system/app/pages/sitemap/hierarchy" jotId="wuid:gx:ce57d40dc136a91" class="sites-navigation-link topLevel">Sitemap</a></div></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Motion Control with PixelPusher</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><span><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt;text-align:center"><span style="font-size:28px;font-family:Trebuchet MS;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">Motion control with PixelPusher</span></p><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:10pt;text-align:center"><span style="font-size:17px;font-family:Trebuchet MS;color:rgb(102,102,102);background-color:transparent;font-style:italic;vertical-align:baseline;white-space:pre-wrap">Jas Strong &lt;</span><a href="mailto:jasmine@heroicrobotics.com"><span style="font-size:17px;font-family:Trebuchet MS;color:rgb(17,85,204);background-color:transparent;font-style:italic;text-decoration:underline;vertical-align:baseline;white-space:pre-wrap">jasmine@heroicrobotics.com</span></a><span style="font-size:17px;font-family:Trebuchet MS;color:rgb(102,102,102);background-color:transparent;font-style:italic;vertical-align:baseline;white-space:pre-wrap">&gt;</span></p><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:10pt;text-align:center"><span style="font-size:17px;font-family:Trebuchet MS;color:rgb(102,102,102);background-color:transparent;font-style:italic;vertical-align:baseline;white-space:pre-wrap">2014-08-30</span></p><br /><br /><h1 dir="ltr" style="line-height:1.15;margin-top:10pt;margin-bottom:0pt"><a name="TOC-Introduction"></a><span style="font-size:21px;font-family:Trebuchet MS;background-color:transparent;font-weight:normal;vertical-align:baseline;white-space:pre-wrap">Introduction</span></h1><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">Since firmware version 1.32, PixelPusher has supported motion control, with broad applications in robotics, animatronics, camera control and lighting.  The first motion control device to be supported is the radio control modelling servo, which is available in a bewildering variety of shapes and sizes and is suitable for many applications.  Electronic speed controllers (ESCs) for continuous-motion motors also accept the same format of signal, on the same connectors.</span></p><br /><h1 dir="ltr" style="line-height:1.15;margin-top:10pt;margin-bottom:0pt"><a name="TOC-Hardware"></a><span style="font-size:21px;font-family:Trebuchet MS;background-color:transparent;font-weight:normal;vertical-align:baseline;white-space:pre-wrap">Hardware</span></h1><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">In terms of hardware support, PixelPusher is already well adapted to driving the R/C servo.  R/C servos usually operate from a 4.8 volt “receiver power” bus, which is close enough to the 5v power usually used by PixelPusher’s LEDs that it can be directly connected without any extra electronics.  Interestingly, ESCs often contain a battery eliminator circuit (BEC) that can derive 5v power from a higher voltage battery.  In R/C modelling this is usually used to power the radio receiver and the control servos;  in our application, it can be used to power the PixelPusher and an attached pocket router.</span></p><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">The connector used on standard servos is a three-pin connector with 0.1” spacing.  Its pinout is not compatible with the strip connectors on PixelPusher, and an adapter cable must be constructed or the servo cable re-terminated with the appropriate connector.  The respective pinouts are given below.  Note that servo cables often use different colour schemes;  the pinout is always the same. </span></p><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">Each strip port on PixelPusher is capable of driving up to two servos given an appropriate Y-cable.</span></p><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">.</span></p><br /><img height="443px;" src="https://docs.google.com/drawings/d/sprBz01TNydkizePzzbb-rA/image?w=616&amp;h=443&amp;rev=223&amp;ac=1" style="border:none" width="616px;" /><h1 dir="ltr" style="line-height:1.15;margin-top:10pt;margin-bottom:0pt"><a name="TOC-Configuration"></a><span style="font-size:21px;font-family:Trebuchet MS;background-color:transparent;font-weight:normal;vertical-align:baseline;white-space:pre-wrap">Configuration</span></h1><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">PixelPusher must be configured for servo drive.  The configuration is handled in the same way as other strip configurations;  in your pixel.rc file, “servo” is the strip type, and there are some subsidiary options that control the signal synthesizer in order that the pulses may be tuned to your specific servos. How these variables affect the pulses is shown below.</span></p><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap"><img height="144px;" src="https://docs.google.com/drawings/d/sHxXyyD9-uCmItZ1ulF5TBg/image?w=624&amp;h=144&amp;rev=74&amp;ac=1" style="border:none" width="624px;" /></span></p><br /><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">.</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">strip</span><span style="font-size:15px;font-family:Arial;font-weight:bold;font-style:italic;vertical-align:baseline;white-space:pre-wrap">n</span><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">=servo:</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap"><span>    </span>strip1=servo</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Courier New;font-size:15px;white-space:pre-wrap;line-height:1.249999952316285"><span>    </span>strip2=servo</span></p><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">Sets an output port to servo mode.  Note that latency on this PixelPusher may increase if servos are enabled.  Any and all ports may be configured to servo mode;  using more servo ports does not require more system resources over those required for a single servo.</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">servo_interval:</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap"><span>    </span>servo_interval=20000</span></p><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">This sets the time interval in microseconds between servo pulses.  Note that the interval is internally stored in milliseconds.</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">servo_minimum:</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Courier New;font-size:15px;white-space:pre-wrap;line-height:1.249999952316285;text-indent:36pt"><span>    </span>servo_minimum=1000</span></p><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">This sets the minimum duration of a servo pulse, in microseconds.  As per specification, 1000 microseconds is the shortest pulse, but your servos may need different settings.</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">servo_multiplier:</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Courier New;font-size:15px;white-space:pre-wrap;line-height:1.249999952316285;text-indent:36pt"><span>    </span>servo_multiplier=4</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">This sets how long the pulse will be for a given position output.  The unit is microseconds per pixel value tick.  Since pixel values range from 0 to 255, a servo_multiplier of 4 will give a pulse that ranges from 1000 to 2022 microseconds, for a servo_minimum of 1000.  These are the default values.</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">flag</span><span style="font-size:15px;font-family:Arial;font-weight:bold;font-style:italic;vertical-align:baseline;white-space:pre-wrap">n</span><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">=10:</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Verdana;vertical-align:baseline;white-space:pre-wrap">   <span>    </span></span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">flag1=10</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-family:Courier New;font-size:15px;white-space:pre-wrap;line-height:1.249999952316285"><span>    </span>flag2=10</span></p><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">The hex value 0x10 in the strip flags sets the SFLAG_NOTIDEMPOTENT property for that strip.  This is intended for use with motion control devices such as stepper motors where a repeated write of the same value does not result in the same physical state in the device.  (If you are using servos, this isn’t needed.)</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;font-weight:bold;vertical-align:baseline;white-space:pre-wrap">data_watchdog_time:</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap"><span>    </span>data_watchdog_time=300</span></p><p dir="ltr" style="line-height:1.15;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;background-color:transparent;vertical-align:baseline;white-space:pre-wrap">Since servos may control mechanisms, it is desirable to ensure that they home to a known position in event that the software driving them crashes or the computer running it shuts down.  The data watchdog allows PixelPusher to restart itself in the event that no data are received in the specified number of seconds.  On restart, PixelPusher will reset the servos.</span></p><br /><br /><br /><h1 dir="ltr" style="line-height:1.249999952316285;margin-top:10pt;margin-bottom:0pt"><a name="TOC-Software"></a><span style="font-size:21px;font-family:Trebuchet MS;background-color:transparent;font-weight:normal;vertical-align:baseline;white-space:pre-wrap">Software</span></h1><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">In terms of software, the library implements two features that allow a client application to determine whether a given strip is actually a motion controller, and if so, what kind of motion controller it is.  Firstly, there are the strip flags SFLAG_MOTION and SFLAG_NOTIDEMPOTENT.  The SFLAG_MOTION flag is automatically set when a servo port is configured.  The SFLAG_NOTIDEMPOTENT flag should be set by the user when an ESC is connected to a servo port (see pixel.rc options above).  The library provides methods to query a Strip object to determine whether it is a motion device or idempotent. </span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">Strip.isMotion() </span><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">returns </span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">true</span><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap"> for a motion control device.  </span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">Strip.isNotIdempotent()</span><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap"> returns </span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">true </span><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">for a non-idempotent motion control device.</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">The second feature that has been added to facilitate motion control is a method to determine when a Strip has actually been sent to the pusher.  The method </span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">Strip.getPushedAt()</span><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap"> returns the time in nanoseconds in the Java epoch when the data was actually sent to the PixelPusher.  If the strip has not yet been pushed since it was last updated, it returns zero.  By subtracting the value returned by </span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">strip.getPushedAt()</span><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap"> from the value returned by </span><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">System.nanoTime()</span><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap"> you can determine how long the servo has been moving.</span></p><div><span><br /></span></div><h2><a name="TOC-Mapping"></a><span style="font-weight:normal"><font face="trebuchet ms, sans-serif" size="5">Mapping</font></span></h2><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">For a servo port, the first pixel of the Strip controls the first servo and the second pixel controls the second servo.  The first component actually controls each, but since colour ordering may vary with configuration, it is best to write code that sets all three, as shown in the Processing example below:</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">int pan=127;</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">int tilt=127;</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">colorMode(RGB,255);</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">List&lt;Strip&gt; strips = registry.getStrips();</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">for (Strip strip : strips) {</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">      if (strip.isMotion()) {</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">         // this is a motion controller.</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">         strip.setPixel(color(pan, pan, pan), 1);</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">         strip.setPixel(color(tilt, tilt, tilt), 0);</span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">      } </span></p><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Courier New;vertical-align:baseline;white-space:pre-wrap">}</span></p><br /><p dir="ltr" style="line-height:1.249999952316285;margin-top:0pt;margin-bottom:0pt"><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">This will work regardless of order settings.</span></p><br /><h1 dir="ltr" style="line-height:1.249999952316285;margin-top:10pt;margin-bottom:0pt"><a name="TOC-Example-code"></a><span style="font-size:21px;font-family:Trebuchet MS;background-color:transparent;font-weight:normal;vertical-align:baseline;white-space:pre-wrap">Example code</span></h1><br /><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap">Examples will be added to the next release of the library.  For now, you can find example sketches </span><a href="https://www.dropbox.com/s/0u8y0jb5dcr03cn/pixelpusher_teachable_servo-140829a.zip?dl=0" rel="nofollow"><span style="font-size:15px;font-family:Arial;color:rgb(17,85,204);text-decoration:underline;vertical-align:baseline;white-space:pre-wrap">here</span></a><span style="font-size:15px;font-family:Arial;vertical-align:baseline;white-space:pre-wrap"> and </span><a href="https://www.dropbox.com/s/hghwpzmjjihs1ob/pixelpusher_servo_movinghead-140823a.zip?dl=0" rel="nofollow"><span style="font-size:15px;font-family:Arial;color:rgb(17,85,204);text-decoration:underline;vertical-align:baseline;white-space:pre-wrap">here.</span></a></span></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-subpages"> </div>
+<div id="sites-attachments-container">
+</div>
+<a xmlns="http://www.w3.org/1999/xhtml" name="page-comments"></a>
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_page-comments"><div class="sites-comment-docos-wrapper"><div class="sites-comment-docos"><div class="sites-comment-docos-background"></div><div class="sites-comment-docos-header"><div class="sites-comment-docos-header-title">Comments</div></div><div id="sites-comment-docos-pane" class="sites-comment-docos-pane"></div></div></div></div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/a/heroicrobot.com/pixelpusher/motion-control-with-pixelpusher&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="/a/heroicrobot.com/pixelpusher/system/app/pages/recentChanges">Recent Site Activity</a><span aria-hidden="true">|</span><a class="sites-system-link" href="https://sites.google.com/a/heroicrobot.com/pixelpusher/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/23004a/system/js/jot_min_view__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/a/heroicrobot.com/pixelpusher/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("2bd", "Navigation", true);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_2bd');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+              new sites.CommentPane('//docs.google.com/comments/d/AAHRpnXtcBWCocrajlgfA6muRa4KEPQ8v1lvxwyxs1lOQlafcC7VXpemh7R4GVoe87tWm2acXi6Gn-2NsX0iKjTwwIFzjHTDX1EA0nfpX6GaLnRMNnsbPbbAvv3xNpSvONuc8feLdn3Qm/api/js?anon=true',
+                  false, false);
+            </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/a/heroicrobot.com/pixelpusher/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            false);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
