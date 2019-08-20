@@ -30,6 +30,28 @@ Various other strips added in 2019. I am working on detecting their various sche
 2006 Dodge Durango
 VIN: `1D8HD48N44F150146`
 
+## Timeline
+
+### 2018
+
+28 working LED strips: all 5 fronts on front two trees, 3 each on back six trees
+
+We had a shortage of clevis pins for platform assembly
+
+Could also use more bolts as I recall.
+
+Install underglow on playa
+
+### 2019
+
+Pi almost certainly water damaged. Found rusted in pool of water.
+
+All sorts of starter problems. Various group SMS chains I'll hopefully copy into here sometime.
+
+Jacob thought he had spare LED strips but turns out they were WS2812B (3-pin) and not really compatible.
+
+Last minute we bought 7 5m strips from Illumn and Dan picked up in San Jose 8/16.
+
 ## People
 
 ### Tom Hallaran  (415) 866-9963
