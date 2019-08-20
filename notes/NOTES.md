@@ -19,6 +19,8 @@ SSID: `Mary Ellen Carter`
 
 Plug into switch from 1 of the 4 *LAN* ports, **not** the WAN port.
 
+## Ethernet Switch
+
 ## LED Strips
 
 The precut silicone old ones we have (28 working as of 2018, stored in black screw-top PVC tube in Reno as of 2019) are APA102. Apprently we bought them directly from Illumn back in the early days.
@@ -29,6 +31,24 @@ Various other strips added in 2019. I am working on detecting their various sche
 
 2006 Dodge Durango
 VIN: `1D8HD48N44F150146`
+
+## Useful Software
+**Download/install all below before going to playa**
+
+https://github.com/robot-head, especially https://github.com/robot-head/PixelPusher-processing-sketches & https://github.com/robot-head/PixelPusher-python
+
+https://github.com/jasstrong/pixelpusher-mapper or https://github.com/Instrument/pixelpusher-mapper
+
+[CoolTerm](https://freeware.the-meiers.org) or `brew cask install coolterm`
+Serial/terminal reader for USB-connected Pusher. In Options:
+Port: `usbmodem#####`
+Baudrate: `115200`
+Data Bits: `8`
+Parity: `none`
+Stop Bits: `1`
+
+https://github.com/jasstrong/PixelPusher-utilities
+Command line tool to load `pixel.rs` direcly to EEPROM (instead of using flash drive) in USB-attached Pusher. Displays very helpful log while booting.
 
 ## Timeline
 
