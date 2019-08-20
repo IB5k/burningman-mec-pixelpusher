@@ -12,6 +12,26 @@ IP: 192.168.111.10
 Startup script defined in `/etc/rc.local`
 (currently `/home/pi/pixelpusher/FullCycle.py`)
 
+**Note:** the above Pi was found rusted and soaked in water in August 2019. Replacing with a Pi 3 Model B v1.2.
+
+### General Raspberry Pi tips
+
+#### SSH
+
+Connect direcly to Mac via Ethernet & provide power
+
+Default Pi hostname is `raspberrypi` so after a few moments you should be able to `ping raspberrypi.local`
+
+Once you can ping, `ssh pi@raspberrypi.local`
+Default password: `raspberry`
+
+#### /boot/ directory
+
+The Pi's SD card contains a /boot/ partition in FAT, easily read/writable on Mac/Windows/Linux. It is mounted as `/boot` when Pi turns on.
+
+`config.txt` is where you can set networking and other config
+`cmdline.txt` is "the kernel command line passed in to the kernel when it boots" though I haven't tested it for launching a PixelPusher python script on boot. I should though.
+
 ## Access Point
 
 IP: `192.168.1.5`
